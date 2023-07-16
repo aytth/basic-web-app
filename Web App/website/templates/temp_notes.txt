@@ -1,0 +1,7 @@
+meta tag is an html element that is used to provide additional information about a webpage
+placed within the head section of an HTML doc and not displayed on the webpage itself
+
+url_for is a python function which loads the python function for on our website
+
+home.html is extending the base template (base.html) 
+to design the home page add the html code in the home.html page

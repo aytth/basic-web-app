@@ -1,0 +1,15 @@
+Front-end development: Done mainly in the templates folder
+base.html is used for how the whole website is gonna look
+we can overwrite this file to make specific webpages look different
+
+importing bootstrap cuz has built-in js in it which allows for cool functions and animations like button press etc
+
+any static object such as js files, images, videos are put in the static folder
+
+using 2 curly brackets like {{ }} inside the 2nd curly bracket we can write a python expression (has exceptions to it)
+
+We use HTTP requests in order to send or receive requests 
+GET REQUEST: When we are loading a webpage or a website i.e. retrieving/getting the HTML of the website
+POST REQUEST: Sending a request to the website for example signing up or loggging in
+
+the request we are importing can access the information the root has
